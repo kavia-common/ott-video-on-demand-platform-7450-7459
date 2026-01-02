@@ -1,0 +1,4 @@
+{
+    "command": "./gradlew test",
+    "working_directory": "/home/kavia/workspace/code-generation/ott-video-on-demand-platform-7450-7459/vod_android_tv_frontend"
+}
